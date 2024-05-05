@@ -52,4 +52,6 @@
     global variable that provide features
 
 ### Preview Image 👇
-  
+
+ <img src="public/imgTodo.png" alt="Todo Image" width="500" height="400"> &nbsp;
+ <img src="public/todoImage2.png" alt="Todo" width="500" height="400"> 
