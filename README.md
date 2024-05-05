@@ -1,4 +1,4 @@
-# TodoList &nbsp; 🧾
+<h1>Todo List &nbsp; 🧾</h1>
 
 ### About Project 👇
 <p>
@@ -40,3 +40,16 @@
     Launch the development server with the following command:
 
     👉  npm run dev
+<hr>
+
+### Folder Structure
+
+    Step 2: Create the App Component
+
+    Step 3: Create the Component folder containe TodoForm.jsx and TodoItems.jsx
+
+    Step 4: Create the Context folder that containe TodoContext.js it work
+    global variable that provide features
+
+### Preview Image 👇
+  
